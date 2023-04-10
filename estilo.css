@@ -69,7 +69,7 @@ h1 {
 
 .boton_1 > button {
     padding: 15px;
-    border: 2px solid white;
+    border: 2px solid #F53A50;
     border-radius: 8px;
     cursor: pointer;
     font-weight: 900;
@@ -130,10 +130,10 @@ h1 {
 
 .boton_2 > button {
     font-family: 'Poppins';
-    background-color: #F53A50;
+    background-color: white;
     margin-top: 20px;
     font-weight: 600;
-    color: white;
+    color: #F53A50;
     border: 1px solid #F53A50;
     border-radius: 9px;
     padding: 15px 40px 15px 40px;
@@ -176,7 +176,7 @@ h1 {
     padding: 15px;
     text-align: center;
     justify-content: center;
-    border: 2px solid white;
+    border: 2px solid #F53A50;
     font-weight: 900;
     border-radius: 8px;
     text-decoration: none;
@@ -528,10 +528,10 @@ input {
     font-weight: 600;
     margin-top: 20px;
     padding: 15px 65px 15px 65px;
-    background-color: #F53A50;
+    background-color: white;
     border: 2px solid #F53A50;
     border-radius: 9px;
-    color: white;
+    color: #F53A50;
     transition: 0.2s ;
     cursor: pointer;
 }
